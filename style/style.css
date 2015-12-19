@@ -310,6 +310,9 @@ ul.price li h2 {
 .price_box {
 	background-color: rgba(255, 255, 255, 0.05);
 }
+.price_box:hover {
+	background-color: rgba(0, 0, 0, 0.15);
+}
 .price_box p {
 	color: white;
 	font-size: 1.5rem;
